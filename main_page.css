@@ -1,0 +1,24 @@
+div {
+	height: 360px;
+	width: 100%;
+}
+
+#topSection {
+	background-color: #584747;
+}
+
+#bottomSection{
+	background-color: #DAE52D;
+}
+
+#detailedAnalysis{
+	position: absolute;
+	top: 60%;
+	right: 10%;
+	height: 50px;
+	width: 150px;
+	border-radius: 5px;
+	box-shadow: inset;
+	font-size: 100%;
+	font-weight: bold;
+}
